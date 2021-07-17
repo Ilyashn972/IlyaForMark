@@ -4,3 +4,7 @@ body {
   background: black;
   text-align: center;
 }
+h1 {
+  font-weight: bold;
+  font-size: 32px;
+}
